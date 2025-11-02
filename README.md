@@ -2,9 +2,6 @@
 
 Um painel web para baixar vídeos do YouTube e cortá-los em clipes verticais (formato shorts/reels) com legendas dinâmicas, tudo controlado por um workflow do n8n.
 
-![Imagem da Interface](https://i.imgur.com/gA8Fv3g.png)
-*(Substitua este link por uma captura de tela real do seu `index.html` em ação)*
-
 ---
 
 ## 🚀 Sobre o Projeto
